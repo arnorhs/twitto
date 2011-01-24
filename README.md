@@ -5,5 +5,7 @@ Reddó er ótrúlegt API. Það er hægt að gera allt með því. Nánari uppl�
 
 Þetta forrit tengist reddó api og twitter api og publishar tweetum notanda á Spjaldinu...
 
-* Allur kóði er í www/site/home.php
-* config er í www/inc.config.php
+Byggir á ShortPHP microframeworkinu.. (http://github.com/arnorhs/ShortPHP)
+
+* Allur kóði sem tengist þessu er í www/site/home.php
+* config er í www/shared.php
