@@ -1,4 +1,4 @@
-<?php if (!defined('S')) die ("You've got no S"); 
+﻿<?php if (!defined('S')) die ("You've got no S"); 
 
 // Hér er allt actionið
 // uhh okk..

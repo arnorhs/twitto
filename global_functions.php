@@ -1,4 +1,4 @@
-<?php
+ï»¿<?php
 
 
 
@@ -14,7 +14,7 @@ function go ($url,$msg='')
 // lesa cfg breytu
 function cfg ($key) {
 	global $cfg;
-	// tékka með === hvort sé sett í kóða
+	// tÃ©kka meÃ° === hvort sÃ© sett Ã­ kÃ³Ã°a
 	return isset($cfg[$key]) ? $cfg[$key] : false;
 }
 
